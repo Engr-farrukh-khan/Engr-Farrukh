@@ -32,7 +32,7 @@ AI Automation Developer | n8n Workflow Engineer | AI Agents & API Integrations �
 * 🧠 Exploring **LLMs, multi-agent systems, NLP, Computer Vision, and autonomous AI workflows**.
 * 🔗 I enjoy connecting tools such as **Gmail, Telegram, Airtable, Google Sheets, OpenAI, APIs, and databases**.
 * 🛠️ Focused on turning repetitive manual processes into **scalable automated systems**.
-* 📬 Reach me at: **engrfarrukhkhan000@gmail.com](mailto:engrfarrukh000@gmail.com)**
+* 📬 Reach me at: **engrfarrukhkhan000@gmail.com]**
 * ⚡ Fun fact: *“If a process repeats, there is probably a workflow waiting to automate it.”*
 
 ---
